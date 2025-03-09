@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://combo-jp.github.io/gaming/sitemap.xml
